@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Added more description.
+This repository is for showing how Git and GitHub work. Added more description. Added More description.
 
 ## Introduction
 
@@ -12,6 +12,6 @@ Sample website with plenty of files for demos. Added more content.
 
 ## Deployment
 
-Thisiis a simple web started project. It can be deployed to any server or loaclly.
+Thisiis a simple web started project. It can be deployed to any server or loaclly. Added more content.
 
 ## How to Contribute

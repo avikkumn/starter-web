@@ -16,6 +16,8 @@ Thisiis a simple web started project. It can be deployed to any server or loacll
 
 ## How to Contribute
 
+Please fork the repository and then issue pull requests for review
+
 ### Copyright
 
 Git Training 

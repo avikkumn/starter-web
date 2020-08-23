@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. Added more content.
 Thisiis a simple web started project. It can be deployed to any server or loaclly. Added more content.
 
 ## How to Contribute
+
+### Copyright
+
+Git Training 

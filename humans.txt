@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Avik Nayak abc@gmail.com 
 
 # THANKS
 

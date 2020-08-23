@@ -1,8 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Added more description.
 
 ## Introduction
+
+This is an example to show different parts of Git repository. 
 
 ## Purpose
 

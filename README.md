@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Added more description. Added More description. 
 Adding a line for rebasing example, more changes from myfeature branch too.
-Updating for emrgency after stashing.
+Updating for emrgency after stashing. Edit from git hub newbranch.
 
 ## Introduction
 
